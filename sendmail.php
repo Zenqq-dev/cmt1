@@ -13,7 +13,7 @@
 	//От кого письмо
 	$mail->setFrom('tatarcnenko.04@mail.ru', 'Тестик');
 	//Кому отправить
-	$mail->addAddress('указать!');
+	$mail->addAddress('tatarchenko.04@mail.ru');
 	//Тема письма
 	$mail->Subject = 'Новая заявка"';
 
